@@ -9,6 +9,6 @@ The Main Language I use the most and one of the most popular languages in the wo
 2. HTML :
 One of the Basic Languages for Web Development
 
-### Access all data by taging #learnthebasics in github search
+### Access all data by taging `#learnthebasics` in github search
 
 ### Created with ❤️ by AbelR007
